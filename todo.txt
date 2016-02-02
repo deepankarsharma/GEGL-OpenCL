@@ -1,0 +1,68 @@
+Invert Gamma
+Deinterlace
+Diffraction Patterns
+Displace
+Edge
+Emboss
+Engrave
+Fattal02
+Gaussian Blur Selective
+Illusion
+Image Compare
+Lens Distortion
+Lens Flare
+Mantiuk06
+Maze
+Mosaic
+Motion Blur Circular
+Motion Blur Zoom
+Noise CIE LCH
+Noise HSV
+Noise Pick
+Noise RGB
+Noise Slur
+Noise Solid
+Noise Spread
+Photocopy
+Plasma
+Reinhard05
+Ripple
+Sepia
+Shift
+Sinus
+Softglow
+Sparkle
+Stress
+Stretch Contrast HSV
+Supernova
+Tile
+Tile glass
+Tile Paper
+Tile Seamless
+Unsharp Mask
+Value Propogate
+Video Degradation
+Waves
+Whirl Pinch
+Wind
+Antialias
+Apply Lens
+Bump map
+Cartoon
+Channel Mixer
+Color Enhance
+Color Rotate
+Convolution Matrix
+Cubism
+Clear
+Color Burn
+Color Dodge
+Darken
+Difference
+Divide
+Exclusion
+Multiply
+Subtract
+Xor
+Add
+Gradient map
