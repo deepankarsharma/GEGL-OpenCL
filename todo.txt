@@ -1,4 +1,4 @@
-Invert Gamma
+Invert Gamma /operations/common
 Deinterlace
 Diffraction Patterns
 Displace
@@ -54,7 +54,7 @@ Color Enhance
 Color Rotate
 Convolution Matrix
 Cubism
-Clear
+Clear /operations/generated
 Color Burn
 Color Dodge
 Darken
@@ -65,4 +65,4 @@ Multiply
 Subtract
 Xor
 Add
-Gradient map
+Gradient map /operations/workshop
